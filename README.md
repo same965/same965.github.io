@@ -2,5 +2,5 @@
 
 My website:
 
-[My website](https://github.com/same965/same965.github.io/blob/master/index.html")
+[My website](https://same965.github.io/ "My website")
 
